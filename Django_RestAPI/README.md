@@ -1,6 +1,5 @@
-# Django Rest Framework (DRF) Course
-Welcome to this full Django Rest Framework (DRF)course. 
-This course is perfect if you are looking to learn DRF and build your own API application.
+# Django Rest Framework 
+Welcome to this full Django Rest Framework.
 ***
 ***
 
@@ -41,9 +40,5 @@ git clone --branch module_1 https://github.com/bobby-didcoding/drf_course.git .
 ***
 ***
 
-## Following along
-Each module has a walk through video. All videos can be found in my (Django Rest Framework Course)[https://www.youtube.com/playlist?list=PL5VlxT4gkOFAD2wpucxHY3X2sCzhha5Kz] playlist.
-
-Please open /steps/module_1 to begin.
 ***
 ***
